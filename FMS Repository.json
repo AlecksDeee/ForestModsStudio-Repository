@@ -18,12 +18,44 @@
 			"telegram": "https://t.me/ForestModsOffical"
 		}
 	}, {
-		"name": "iPogo",
-		"version": "0.261.1",
-		"down": "https://ipogo.app/download/ipogo-2.8.2.ipa",
-		"category": "Tweaked Apps",
-		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
+		"name": "Lunar Brawl",
+		"version": "47.190",
+        "icon": "https://clck.ru/33Vq5M",
+		"down": "https://clck.ru/33VqXn",
+        "dev": "Forest Mods Studio",
+		"category": "Mods",
+        "changelog": "- Лунно-Новогодние скины\n- Лунно-Новогодний фон\n- Старый экран загрузки\n- Окружение город с Лунно-Новогодними декорациями\n- Лунные кубы силы в столкновении",
+		"description": "Lunar Brawl - Мод который посвещён празднику Лунный Новый Год, в нём вы найёте всё что связано с ним.",
+		"bundleID": "com.fms.lunarbrawlI",
+		"appstore": "com.supercell.laser",
+		"contact": {
+			"telegram": "https://t.me/ForestModsOffical"
+		}
+	}, {
+		"name": "Pro Brawl",
+		"version": "47.190",
+		"down": "https://clck.ru/33VqY5",
+        "dev": "Forest Mods Studio",
+		"category": "Mods",
+        "changelog": "- Донатные скины",
+		"description": "Pro Brawl - Мод для любителей поиграть со скинами.",
+		"bundleID": "com.fms.probrawlI",
+		"appstore": "com.supercell.laser",
+		"contact": {
+			"telegram": "https://t.me/ForestModsOffical"
+		}
+	}, {
+		"name": "Pro Brawl+",
+		"version": "47.190",
+		"down": "https://clck.ru/33VqYu",
+        "dev": "Forest Mods Studio",
+		"category": "Mods",
+        "changelog": "Новый сезон! Лето с монстрами\n Фон, Окружение, Загрузочный экран, Скины, Brawl Pass\nИзменения не касающиеся сезона:\n- Донатные скины\n- Красивая графика\n- Под клоном леона мигающий круг\n- Тонкая обводка\n- Изменён шрифт",
+		"description": "Pro Brawl+ - Улучшенная версия мода Pro Brawl, также в этом моде присутствуют сезоны, при каждом обновлении другой сезон который выберают голосованием.",
+		"bundleID": "com.fms.probrawlplusI",
+		"appstore": "com.supercell.laser",
+		"contact": {
+			"telegram": "https://t.me/ForestModsOffical"
+		}
 	}]
 }
