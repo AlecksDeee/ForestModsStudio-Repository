@@ -1,0 +1,29 @@
+{
+	"META": {
+		"repoName": "Forest Mods Studio Repository",
+		"repoIcon": "https://clck.ru/33Vpci"
+	},
+	"Mods": [{
+		"name": "Halloween Brawl",
+		"version": "47.190",
+        "icon": "https://clck.ru/33Vpqd",
+		"down": "https://clck.ru/33Vpnv",
+        "dev": "Forest Mods Studio",
+		"category": "Mods",
+        "changelog": "- Хэллоуинские скины\n- Хэллоуинский фон\n- Хэллоуинский экран загрузки\n- Хэллоуинское окружение\n- У хэллоуинских скинов стандартный пин заменён на особый\n- Хэллоуинская табличка теперь анимирована",
+		"description": "Halloween Brawl - Мод который посвещён празднику Хэллоуин, в нём вы найдёте всё что связано с ним.",
+		"bundleID": "com.fms.halloweenbrawlI",
+		"appstore": "com.supercell.laser",
+		"contact": {
+			"telegram": "https://t.me/ForestModsOffical"
+		}
+	}, {
+		"name": "iPogo",
+		"version": "0.261.1",
+		"down": "https://ipogo.app/download/ipogo-2.8.2.ipa",
+		"category": "Tweaked Apps",
+		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+		"bundleID": "com.nianticlabs.pokemongo",
+		"appstore": "com.nianticlabs.pokemongo"
+	}]
+}
