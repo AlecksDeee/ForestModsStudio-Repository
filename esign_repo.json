@@ -1,0 +1,21 @@
+{
+    "name": "ForestModsStudio",
+    "identifier": "com.fms.esignrepo",
+    "sourceURL": "https://esign.yyyue.xyz/apps.json",
+    "apps": [
+        {
+            "name": "Halloween Brawl",
+            "bundleIdentifier": "com.fms.halloweenbrawlI",
+            "developerName": "ForestModsStudio",
+            "version": "47.190",
+            "versionDate": "14-02-2023T21:00:00+08:00",
+            "versionDescription": "- Хэллоуинские скины\n- Хэллоуинский фон\n- Хэллоуинский экран загрузки\n- Хэллоуинское окружение\n- У хэллоуинских скинов стандартный пин заменён на особый\n- Хэллоуинская табличка теперь анимирована\n- Страшный шрифт",
+            "downloadURL": "https://clck.ru/33Vpnv",
+            "iconURL": "https://clck.ru/33Vpqd",
+            "tintColor": "a537f8",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        }
+    ]
+}
