@@ -1,0 +1,59 @@
+{
+    "version": "1.0",
+    "sourceName": "Forest Mods Studio Repository",
+    "sourceAuthor": "AlecksDeee",
+    "sourceExportEnable": true,
+    "sourceLinkTitle": "Forest Mods Studio",
+    "sourceLinkUrl": "https://t.me/ForestModsOffical",
+    "sourceImage": "https://clck.ru/33Vpci",
+    "sourceUpdateTime": "2023-02-25T17:00:00+0800",
+    "sourceDescription": "Моды с канала @ForestModsOffical, сделано самым умным программистом AlecksDeee🤓🤓🤓",
+    "appCategories": [
+        "Mods"
+    ],
+    "appRepositories": [
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2023-02-25T17:00:00+0800",
+            "appName": "Halloween Brawl",
+            "appVersion": "47.190",
+            "appImage": "https://clck.ru/33Vpqd",
+            "appPackage": "https://clck.ru/33Vpnv",
+            "appDescription": "Halloween Brawl - Мод который посвещён празднику Хэллоуин, в нём вы найдёте всё что связано с ним."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2023-02-25T17:00:00+0800",
+            "appName": "Lunar Brawl",
+            "appVersion": "47.190",
+            "appImage": "https://clck.ru/33Vq5M",
+            "appPackage": "https://clck.ru/33VqXn",
+            "appDescription": "Lunar Brawl - Мод который посвещён празднику Лунный Новый Год, в нём вы найёте всё что связано с ним."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2023-02-25T17:00:00+0800",
+            "appName": "Pro Brawl",
+            "appVersion": "47.190",
+            "appImage": "https://clck.ru/33cyTJ",
+            "appPackage": "https://clck.ru/33VqY5",
+            "appDescription": "Pro Brawl - Мод для любителей поиграть со скинами."
+        },
+
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2023-02-25T17:00:00+0800",
+            "appName": "Pro Brawl+",
+            "appVersion": "47.190",
+            "appImage": "https://clck.ru/33cyTJ",
+            "appPackage": "https://clck.ru/33VqYu",
+            "appDescription": "Pro Brawl+ - Улучшенная версия мода Pro Brawl, также в этом моде присутствуют сезоны, при каждом обновлении другой сезон который выберают голосованием."
+        }
+    ]
+}
