@@ -1,0 +1,20 @@
+{
+	"META": {
+		"repoName": "Forest Mods Studio Repository",
+		"repoIcon": "https://clck.ru/33Vpci"
+	},
+	"Mods": [{
+		"name": "Pro Brawl",
+		"version": "48.300",
+		"down": "https://clck.ru/33VqY5",
+        "dev": "Forest Mods Studio",
+		"category": "Mods",
+        "changelog": "- Донатные скины",
+		"description": "Pro Brawl - Мод для любителей поиграть со скинами.",
+		"bundleID": "com.fms.probrawlI",
+		"appstore": "com.supercell.laser",
+		"contact": {
+			"telegram": "https://t.me/ForestModsOffical"
+		}
+	}]
+}
