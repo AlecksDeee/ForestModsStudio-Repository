@@ -1,12 +1,12 @@
 {
 	"META": {
 		"repoName": "Forest Mods Studio Repository",
-		"repoIcon": "https://clck.ru/33Vpci"
+		"repoIcon": "https://github.com/AlecksDeee/ForestModsStudio-Repository/blob/main/icons/icon.png?raw=true"
 	},
 	"Mods": [{
 		"name": "Pro Brawl",
 		"version": "48.300",
-		"down": "https://clck.ru/33VqY5",
+		"down": "https://github.com/AlecksDeee/ForestModsStudio-Repository/releases/download/Ipa/ProBrawl.ipa",
         "dev": "Forest Mods Studio",
 		"category": "Mods",
         "changelog": "- Донатные скины",
