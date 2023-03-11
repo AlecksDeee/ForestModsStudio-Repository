@@ -6,7 +6,7 @@
 	"Mods": [{
 		"name": "Pro Brawl",
 		"version": "48.300",
-		"down": "https://github.com/AlecksDeee/ForestModsStudio-Repository/releases/download/Ipa/ProBrawl.ipa",
+		"down": "http://forestmodsstudio.xyz/files/ProBrawl.ipa",
         "dev": "Forest Mods Studio",
 		"category": "Mods",
         "changelog": "- Донатные скины",
