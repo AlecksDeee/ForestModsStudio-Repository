@@ -16,19 +16,6 @@
             "isLanZouCloud": 0,
             "size": 354047625,
             "type": 1
-        },{
-            "name": "Certificate",
-            "bundleIdentifier": "com.fms.cert",
-            "developerName": "ForestModsStudio",
-            "version": "1.0",
-            "versionDate": "2023-03-07T18:00:00+08:00",
-            "versionDescription": "- Актуальный сертификат",
-            "downloadURL": "https://github.com/AlecksDeee/ForestModsStudio-Repository/releases/download/Ipa/Certificate.ipa",
-            "iconURL": "https://github.com/AlecksDeee/ForestModsStudio-Repository/blob/main/icons/certificate-icon.png?raw=true",
-            "tintColor": "a537f8",
-            "isLanZouCloud": 0,
-            "size": 11771,
-            "type": 1
         }
     ]
 }
